@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# default value
 TRESHOLD=30
 
 function SET_TRESHOLD {
