@@ -1,3 +1,5 @@
+#!/bin/bash
+
 fileName=users.db
 folder=./data
 fullPath="${folder}/${fileName}"
